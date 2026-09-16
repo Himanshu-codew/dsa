@@ -1,0 +1,6 @@
+{
+  "name": "DSA Codespace",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1-ubuntu-24.04",
+  "postCreateCommand": "curl -fsSL https://opencode.ai/install | bash"
+}
+
